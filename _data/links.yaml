@@ -1,9 +1,9 @@
 group:
-  name: "Piráti Brandýs nad Labem - Stará Boleslav"
-  short_name: "Brandýs - St. Boleslav"
-  facebook_page: "https://www.facebook.com/piratibrandysboleslav/"
-  twitter: "https://twitter.com/piratipraha"
-  local_contact_uid: "patrick.zandl"  # uid mistniho kontaktu definovane v _people
+  name: "Piráti - Krajské sdružení Vysočina"
+  short_name: "Piráti Vysočiny"
+  facebook_page: "https://www.facebook.com/pirativysocina/"
+  twitter: "https://twitter.com/pirativys"
+  local_contact_uid: "michaela.vodova"  # uid mistniho kontaktu definovane v _people
   github_repository: "https://github.com/tangero/brandys-pirati"
 
 parent_group:
