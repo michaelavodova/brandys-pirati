@@ -1,22 +1,22 @@
 ---
-uid:      patrick.zandl
-name:     Patrick Zandl  	# běžně používáné jméno
-fullname: Patrick Zandl  	# jméno s tituly etc.
+uid:      michaela.vodova
+name:     Michaela Voodová  	# běžně používáné jméno
+fullname: Mgr. Michaela Vodová  	# jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - clenove
 - kandidat-komunalky-2018
 ordkomunal2018: 1
-img: people/patrick-zandl-late2018.png   # 165 x 220
-description: fanda moderních technologií, publicista, odborník na telekomunikace a předseda Pirátů v Brandýse  # kratký popis, max 160 znaků
+img: people/ppp.png   # 165 x 220
+description: předsedkyně a koordinátorka Pirátů na Vysočině  # kratký popis, max 160 znaků
 candidatedesc: leader kandidátky Pirátů pro komunální volby, člen Pirátů
 
 mail:
-- patrick.zandl@pirati.cz
+- michaela.vodova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/patrick.zandl
-  twitter: https://twitter.com/tangero
-  linkedin: https://www.linkedin.com/in/patrickzandl/
-  blog: https://www.marigold.cz
+  facebook: https://www.facebook.com/michaela.vodova
+  twitter: https://twitter.com/misavoda
+  linkedin: https://www.linkedin.com/in/michaela-vodova/
+  www: 
 ---
 
 **Patrick Zandl (*26. srpna 1974, Mnichov, SRN)** je členem Pirátské strany od roku 2018, dlouhou dobu patří mezi spolupracovníky na egov a telekomunikačních agendách. Publicista a expert v oboru telekomunikací.
