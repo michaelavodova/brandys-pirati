@@ -4,12 +4,12 @@
 - link: wiki.pirati.cz
   url: https://wiki.pirati.cz
   icon: fa fa-home
-#- link: Diskuse
-#  url: https://forum.pirati.cz
-#  icon: fa fa-comments
-#- link: Volné úkoly
-#  url: https://ukoly.pirati.cz
-#  icon: fa fa-tasks
+- link: Diskuse
+  url: https://forum.pirati.cz
+  icon: fa fa-comments
+- link: Volné úkoly
+  url: https://redmine.pirati.cz/projects/kraj-vysocina/issues?query_id=29
+  icon: fa fa-tasks
 - link: Pirátské listy
   url: http://www.piratskelisty.cz
   icon: fa fa-newspaper-o
