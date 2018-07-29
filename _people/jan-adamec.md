@@ -5,7 +5,7 @@ fullname: Mgr. Jan Adamec  	# jméno s tituly etc.
 category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 
-img: people/jan-adamec.jpg   # 165 x 220
+img: people/ppp.jpg   # 165 x 220
 description: programátor, autor mobilní aplikace o Praze 12  # kratký popis, max 160 znaků
 mail:
 profiles:
