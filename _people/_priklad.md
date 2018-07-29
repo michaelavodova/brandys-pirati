@@ -16,7 +16,7 @@ profiles:
   twitter: https://twitter.com/uzivatel.na.twitteru
   #linkedin, atd, dalsi promenne viz _layouts/member.html
 
-ordpms: 1  # poradi v mistnim predsednictvu (category pks)
+ordpks: 1  # poradi v krajskem predsednictvu (category pks)
 ---
 
 Jméno Příjmení (*1. ledna 1900) je to a to, a tak dál. Sem patří představení člověka, několik odstavců.
