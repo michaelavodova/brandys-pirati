@@ -2,8 +2,8 @@
 uid: jmeno.prijmeni
 name: Jméno Příjmení  	# běžně používáné jméno
 fullname: Ing. Jméno Příjmení PhD.  # jméno s tituly etc.
-category:                 # kategorie: pms, clenove, priznivci
-- pms
+category:                 # kategorie: pks, clenove, priznivci
+- pks
 
 img: people/ppp.jpg       # 165 x 220, v assets/img
 description: zastupitel MČ Praha 1 # kratký popis, max 160 znaků
