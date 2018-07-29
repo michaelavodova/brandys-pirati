@@ -4,11 +4,10 @@ name:     Michaela Voodová  	# běžně používáné jméno
 fullname: Mgr. Michaela Vodová  	# jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - clenove
-- kandidat-komunalky-2018
-ordkomunal2018: 1
+
 img: people/ppp.png   # 165 x 220
 description: předsedkyně a koordinátorka Pirátů na Vysočině  # kratký popis, max 160 znaků
-candidatedesc: leader kandidátky Pirátů pro komunální volby, člen Pirátů
+candidatedesc: 
 
 mail:
 - michaela.vodova@pirati.cz
