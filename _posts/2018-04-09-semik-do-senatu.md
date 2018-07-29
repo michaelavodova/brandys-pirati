@@ -7,8 +7,7 @@ author: Michaela Vodová
 authorId: michaela.vodova
 image: /assets/img/people/ppp.jpg
 tags:
-  - pošta
-  - služby
+  - senát
 ---
 
 Primární volby na pozici Pirátského senátorského kandidáta ve volebním obvodu číslo 44 na území Chrudimska a Havlíčkobrodska vyhrál Ing. Roman Šemík. Uspěl již v prvním kole volby, jelikož získal nadpoloviční většinu hlasů a porazil tak protikandidáta RNDr. Emanuela Žďárského CSc.
@@ -18,9 +17,3 @@ V Chrudimsko-havlíčkobrodském obvodu byl dlouhá léta senátorem Petr Pithar
 Do senátní voleb se chystá s odhodláním vysvětlovat potřebu Senátu jako jističe demokratického vývoje naší společnosti. „Jako senátor se budu účastnit revidování norem, které byly schváleny ve Sněmovně. Opravovat, korigovat, pozměňovat, vracet zpět. To je základ práce senátora. Také se budu snažit udržovat dvě kanceláře v regionu - jednu v Chrudimi a jednu v Havlíčkově Brodě tak, abych v každé z nich byl pravidelně k zastižení“, doplnil Roman Šemík.
 
 Na Vysočině se bude volit nový senátor ještě v třebíčském volebním obvodu, ve kterém by Piráti také rádi postavili svého kandidáta. „I v třebíčském obvodu máme několik uchazečů o post senátora, mezi kterými by měli členové v primárních volbách zvolit snad už na přelomu dubna a května,“ uvedla předsedkyně Místního sdružení Třebíčsko Michaela Vodová.
-
-
-
-![Fronty na poště? Nemají jednoduché řešení ...  ](/assets/img/posts/2018-07-09-fronty-na-poste.jpg)
-
-- - -
