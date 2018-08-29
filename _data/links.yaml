@@ -1,6 +1,7 @@
 group:
   name: "Michaela Vodová"
   short_name: "Michaela Vodová"
+  facebook_page: "https://www.facebook.com/michaelavodova/"
   twitter: "https://twitter.com/misavoda"
   local_contact_uid: "michaela.vodova"  # uid mistniho kontaktu definovane v _people
   github_repository: "https://github.com/michaelavodova/vysocina.pirati"
