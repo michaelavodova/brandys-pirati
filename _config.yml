@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Pirátská strana | Krajské sdružení Vysočina
-email: pirati.vysocina@gmail.cz
+title: Pirátská strana | Michaela Vodová
+email: michaela.vodova@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Web krajského sdružení České pirátské strany - Vysočina.
+  Web Michaely Vodové, členky Pirátů Vysočiny.
 url: "https://www.pirati.cz" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
